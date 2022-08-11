@@ -8,16 +8,16 @@ hcfgyfgh
 
 <?
 
-<<<<<<< HEAD
+ 
 check error(){
 	var $ i = '1';
 	var $k = '9';
 var $l = '10';
 
 }
-=======
+ 
 check error test
->>>>>>> ed8ba180d6c1e61259a31ee0b8b34bc4db0db590
+ 
 
 
 ?>
