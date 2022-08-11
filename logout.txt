@@ -5,7 +5,10 @@ logout
 
 <?
 
-check error
+check error(){
+	var $ i = '1';
+
+}
 
 
 ?>
