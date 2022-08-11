@@ -5,7 +5,9 @@ logout
 
 <?
 
-check error
+check error() {
+	echo $i = '1';
+}
 
 
 ?>
