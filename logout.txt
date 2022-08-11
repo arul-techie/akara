@@ -3,14 +3,21 @@ testing file for git hub
 
 logout
 
+
+ 
+
 <?
 
+ 
 check error() {
 	echo $i = '1';
 }
-
+ 
+check error test
+ 
 
 ?>
+
 
 
 I am Arul Murugan
@@ -22,6 +29,10 @@ next commit changes
 
 this is shankar testing
 hi there
+
+
+test shankar
+
 
 
 testing the test
