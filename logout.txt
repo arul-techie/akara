@@ -3,7 +3,12 @@ testing file for git hub
 
 logout
 
+<?
 
+check error
+
+
+?>
 
 
 I am Arul Murugan
